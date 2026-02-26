@@ -18,6 +18,10 @@ struct ContentView: View {
             Button("Click me"){
                 
             }
+            Button("Submit"){
+                
+            }
+            Rectangle()
             .padding(10)
         }
         .padding()
