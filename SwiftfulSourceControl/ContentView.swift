@@ -15,7 +15,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("For love and all that!")
-            Button("Click me"){
+            Button("press me"){
                 
             }
             Button("SigIn"){
