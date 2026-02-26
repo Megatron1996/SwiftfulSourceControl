@@ -18,7 +18,7 @@ struct ContentView: View {
             Button("Click me"){
                 
             }
-            Button("Submit"){
+            Button("SigIn"){
                 
             }
             Rectangle()
