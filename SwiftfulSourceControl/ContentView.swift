@@ -22,6 +22,8 @@ struct ContentView: View {
                 
             }
             Rectangle()
+                .cornerRadius(30)
+                .shadow(radius: 20)
             .padding(10)
         }
         .padding()
