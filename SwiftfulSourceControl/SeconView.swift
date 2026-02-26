@@ -12,6 +12,11 @@ struct SeconView: View {
 
         ZStack{
             Text("my text of coding")
+                .font(.largeTitle)
+                .foregroundColor(.white)
+                .padding()
+                .background(Color.blue)
+                .cornerRadius(20)
         }
     }
 }
